@@ -41,7 +41,7 @@
 							</script>
 
 
-							<!---   PUB ------>
+							<!---   PUBLICITE terminé ------>
 						<div class="inner">
 
 							<!-- Header -->
